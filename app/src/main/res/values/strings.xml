@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Model_Paper</string>
+    <string name="home">Home</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add">add</string>
+    <string name="update_profile">update profile</string>
+    <string name="profile_management">Profile Management</string>
+    <string name="dob">Date of birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="editProfile">Edite Profile</string>
+    <string name="search">search</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="gender">Gender</string>
+</resources>
